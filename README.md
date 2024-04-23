@@ -11,3 +11,5 @@ Hal ini memastikan bahwa subscriber dan publisher terhubung pada infrastruktur p
 ## RABBITMQ
 
 ![alt text](image.png)
+
+![alt text](image-1.png)
