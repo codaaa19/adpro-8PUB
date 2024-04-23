@@ -7,3 +7,7 @@ Setiap pemanggilan function publish_event() akan mengirimkan 1 pesan ke broker d
 2. The url of: `amqp://guest:guest@localhost:5672` is the same as in the subscriber program, what does it mean?
 
 Hal ini memastikan bahwa subscriber dan publisher terhubung pada infrastruktur pesan yang sama agar dapat bertukar pesan secara lancar.
+
+## RABBITMQ
+
+![alt text](image.png)
