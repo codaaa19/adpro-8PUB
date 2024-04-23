@@ -13,3 +13,9 @@ Hal ini memastikan bahwa subscriber dan publisher terhubung pada infrastruktur p
 ![alt text](image.png)
 
 ![alt text](image-1.png)
+
+Publisher akan mengirimkan pesan data, yaitu 5 event kepada subscriber
+
+![alt text](image-2.png)
+
+Grafik spike berikut dipengaruhi oleh esekusi publisher. Semakin banyak jumlah pesan dalam queue, semakin besar juga lonjakannya
